@@ -44,6 +44,22 @@ Unpaid part time internship for 2nd year medicaal physics undergraduates in the 
 
 https://wellcome.org/jobs/summer-internship-programme
 
+### Insitute of Cancer Research summer studentships
+
+6-8 week paid internship at ICR, for student not in first or last year of study. 
+
+https://www.icr.ac.uk/studying-and-training/undergraduate-summer-scholarship-scheme
+
+### Crick summer studentships
+
+9 week paid studentship at the Crick. In 2024 availability was restricted to students with at least one of the following widening participation eligibility criteria (from site):
+
+- Be of Black ethnicity
+- Be in receipt of enhanced maintenance support from the relevant UK student finance agency to help with living costs during study
+- Be studying at a university on the Crick’s Summer Student Training Programme priority institutions list.
+
+https://www.crick.ac.uk/careers-study/students/summer-students
+
 ## Joint application studentships
 
 The following studentships need to be applied for by the supervisor and the student together. This requires more work than student led applications, and should normally be prepared well in advance.
