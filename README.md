@@ -40,11 +40,31 @@ Unpaid part time internship for 2nd year medicaal physics undergraduates in the 
 
 https://wellcome.org/jobs/summer-internship-programme
 
+# Joint application studentships
+
+The following studentships need to be applied for by the supervisor and the student together.
+
 ## British society of cell biology studentships
 
 Paid 8 week studentship, requiring application by the prospective supervisor for a named student, with deadline late March. Ben emailed 12/3/24 to confirm eligibility of computational biology.
 
 https://bscb.org/competitions-awardsgrants/studentships/
+
+## London Mathematical Society undergraduate research bursaries
+
+Paid 8 week studentship, applications must be made by the project supervisor on behalf of the student and requests matched from the host department and support from the head of department. Student should be involved in the project design. Deadline February
+
+https://www.lms.ac.uk/grants/undergraduate-research-bursaries
+
+https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications
+
+https://www.lms.ac.uk/sites/default/files/inline-files/URB%202024%20Guidelines.pdf
+
+## Royal Society of Chemistry
+
+Paid 6-8 week internship, student must be a member of the RSC (free) and the project relevant to chemistry. Deadline February
+
+https://www.rsc.org/prizes-funding/funding/find-funding/undergraduate-research-bursaries/
 
 # Other lists of internship opportunities
 
@@ -52,4 +72,6 @@ Alternative notice boards with different opportunities. The specifics of each st
 
 Royal Society of Biology: https://www.rsb.org.uk/get-involved/grants/undergraduate-studentships
 
+GoEco (opportunities for volunteering abroad, not necessarily research): https://www.goeco.org/
 
+MBPE noticeboard: https://moodle.ucl.ac.uk/course/view.php?id=36820&section=10
