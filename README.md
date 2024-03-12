@@ -60,6 +60,36 @@ https://www.icr.ac.uk/studying-and-training/undergraduate-summer-scholarship-sch
 
 https://www.crick.ac.uk/careers-study/students/summer-students
 
+### Cambridge LMB student placement scheme
+
+8-13 week placements, deadline end of March
+
+https://www2.mrc-lmb.cam.ac.uk/students/student-placement-scheme/
+
+### CRUK Cambridge Institute
+
+8 week paid internship, with accommodation included. Site reports 2024 applications are not yet
+
+https://www.cruk.cam.ac.uk/jobs-and-studentships/undergraduate-summer-research-programme/
+
+### Sanger Institute
+
+3 month paid placement
+
+https://www.studentapprenticeships.co.uk/job/wellcome-trust-sanger-institute-summer-placement/
+
+### GSK 
+
+Call open between Septemer & November, can register interest early
+
+https://www.gsk.com/en-gb/locations/united-kingdom/undergraduates/
+
+### AstraZeneca
+
+10 week placements
+
+https://careers.astrazeneca.com/pharmaceutical-development-summer-placements
+
 ## Joint application studentships
 
 The following studentships need to be applied for by the supervisor and the student together. This requires more work than student led applications, and should normally be prepared well in advance.
