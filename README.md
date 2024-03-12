@@ -1,4 +1,4 @@
-# MBPE internship opportunities
+# MBPE & UCL internship opportunities
 
 Document listing opportunities for internships available to student at Medical Physics and Biomedical Engineering @ UCL (https://www.ucl.ac.uk/medical-physics-biomedical-engineering/ucl-medical-physics-and-biomedical-engineering).
 
@@ -32,4 +32,24 @@ https://www.hdruk.ac.uk/study-and-train/about-the-training-team/impact-and-partn
 
 ## MBPE Research experience scheme
 
-Unpaid part time internship for 2nd year undergraduates in the department, running over the course of the year. Applications in November
+Unpaid part time internship for 2nd year medicaal physics undergraduates in the department, running over the course of the year. Applications in November- contact e.alles@ucl.ac.uk for more information
+
+## Wellcome trust summer internship programme
+
+8 weeks paid internship in WT. Currently closed for 2024
+
+https://wellcome.org/jobs/summer-internship-programme
+
+## British society of cell biology studentships
+
+Paid 8 week studentship, requiring application by the prospective supervisor for a named student, with deadline late March. Ben emailed 12/3/24 to confirm eligibility of computational biology.
+
+https://bscb.org/competitions-awardsgrants/studentships/
+
+# Other lists of internship opportunities
+
+Alternative notice boards with different opportunities. The specifics of each studentship need to be checked as they do not necessarily reflect single programmes.
+
+Royal Society of Biology: https://www.rsb.org.uk/get-involved/grants/undergraduate-studentships
+
+
