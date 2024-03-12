@@ -46,7 +46,7 @@ https://wellcome.org/jobs/summer-internship-programme
 
 ### Insitute of Cancer Research summer studentships
 
-6-8 week paid internship at ICR, for student not in first or last year of study. 
+6-8 week paid internship at ICR, for student not in first or last year of study. Deadline January
 
 https://www.icr.ac.uk/studying-and-training/undergraduate-summer-scholarship-scheme
 
