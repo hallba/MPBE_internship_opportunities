@@ -130,6 +130,12 @@ Paid 6-8 week internship, student must be a member of the RSC (free) and the pro
 
 https://www.rsc.org/prizes-funding/funding/find-funding/undergraduate-research-bursaries/
 
+## Genetics Society
+
+8 week paid studentship
+
+https://genetics.org.uk/grants/summer-studentships/
+
 ## Other lists of internship opportunities
 
 Alternative notice boards with different opportunities. The specifics of each studentship need to be checked as they do not necessarily reflect single programmes.
