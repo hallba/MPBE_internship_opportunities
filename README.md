@@ -29,3 +29,7 @@ Paid 8 week internship. Open after October, with option to register for future y
 https://www.hdruk.ac.uk/study-and-train/train/health-data-science-black-internship-programme/
 
 https://www.hdruk.ac.uk/study-and-train/about-the-training-team/impact-and-partnerships/an-internship-programme-to-help-talented-black-health-data-scientists-flourish-in-stem-careers/
+
+## MBPE Research experience scheme
+
+Unpaid part time internship for 2nd year undergraduates in the department, running over the course of the year. Applications in November
