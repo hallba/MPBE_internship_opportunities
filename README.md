@@ -4,13 +4,17 @@ Document listing opportunities for internships available to student at Medical P
 
 Unless stated otherwise, all internships are expected to run over the summer.
 
-## Laidlaw scholarships
+## Student led applications
+
+In each of the following the student applies to a specific opportunity
+
+### Laidlaw scholarships
 
 Prestigous and highly competitive scholarship scheme running over multiple summers. In your first year you will do a 6 week paid research project in a lab you select as part of your application. Typically opens in December, results in March
 
 https://www.ucl.ac.uk/laidlaw-scholarships/become-future-leader
 
-## Departmental scholarships
+### Departmental scholarships
 
 8 week paid projects in a lab in MBPE, working on either research or the development of teaching resources. Opens in March.
 
@@ -42,7 +46,7 @@ https://wellcome.org/jobs/summer-internship-programme
 
 # Joint application studentships
 
-The following studentships need to be applied for by the supervisor and the student together.
+The following studentships need to be applied for by the supervisor and the student together. This requires more work than student led applications, and should normally be prepared well in advance.
 
 ## British society of cell biology studentships
 
