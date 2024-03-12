@@ -90,13 +90,21 @@ https://www.gsk.com/en-gb/locations/united-kingdom/undergraduates/
 
 https://careers.astrazeneca.com/pharmaceutical-development-summer-placements
 
+## IPLS Undergraduate Summer Research Studentships
+
+Paid 8+ week project, deadline March
+
+https://www.ucl.ac.uk/physics-living-systems/training/ipls-undergraduate-summer-research-studentships-2024
+
 ## Joint application studentships
 
 The following studentships need to be applied for by the supervisor and the student together. This requires more work than student led applications, and should normally be prepared well in advance.
 
 ### British society of cell biology studentships
 
-Paid 8 week studentship, requiring application by the prospective supervisor for a named student, with deadline late March. Ben emailed 12/3/24 to confirm eligibility of computational biology.
+Paid 8 week studentship, requiring application by the prospective supervisor for a named student, with deadline late March. Supervisor needs to have been a member for a year.
+
+Ben emailed 12/3/24 to confirm eligibility of computational biology.
 
 https://bscb.org/competitions-awardsgrants/studentships/
 
