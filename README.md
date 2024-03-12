@@ -98,7 +98,13 @@ https://www.ucl.ac.uk/physics-living-systems/training/ipls-undergraduate-summer-
 
 ## Joint application studentships
 
-The following studentships need to be applied for by the supervisor and the student together. This requires more work than student led applications, and should normally be prepared well in advance.
+The following studentships need to be applied for by the supervisor and the student together. This requires more work than student led applications, and should normally be prepared well in advance. Society studentships typically require the supervisor to be a member of the society too, sometimes with time limits.
+
+### Biochemical Society
+
+6 week paid studentship
+
+https://www.biochemistry.org/grants-and-awards/grants-and-bursaries/summer-vacation-studentships/
 
 ### British society of cell biology studentships
 
