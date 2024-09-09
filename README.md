@@ -78,6 +78,12 @@ https://www.cruk.cam.ac.uk/jobs-and-studentships/undergraduate-summer-research-p
 
 https://www.studentapprenticeships.co.uk/job/wellcome-trust-sanger-institute-summer-placement/
 
+### Oxford Nanopore
+
+opens in december
+
+https://nanoporetech.com/about/careers/early-careers
+
 ### GSK 
 
 Call open between Septemer & November, can register interest early
