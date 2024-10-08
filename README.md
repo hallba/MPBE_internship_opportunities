@@ -80,7 +80,7 @@ https://www.studentapprenticeships.co.uk/job/wellcome-trust-sanger-institute-sum
 
 ### Oxford Nanopore
 
-opens in december
+Opens in december
 
 https://nanoporetech.com/about/careers/early-careers
 
@@ -116,9 +116,10 @@ https://www.biochemistry.org/grants-and-awards/grants-and-bursaries/summer-vacat
 
 Paid 8 week studentship, requiring application by the prospective supervisor for a named student, with deadline late March. Supervisor needs to have been a member for a year.
 
-Ben emailed 12/3/24 to confirm eligibility of computational biology.
-
 https://bscb.org/competitions-awardsgrants/studentships/
+
+Department members:
+* Ben Hall
 
 ### London Mathematical Society undergraduate research bursaries
 
@@ -141,6 +142,9 @@ https://www.rsc.org/prizes-funding/funding/find-funding/undergraduate-research-b
 8 week paid studentship
 
 https://genetics.org.uk/grants/summer-studentships/
+
+Department members:
+* Ben Hall
 
 ## Other lists of internship opportunities
 
