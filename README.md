@@ -1,4 +1,4 @@
-# MBPE & UCL internship opportunities
+# MPBE & UCL internship opportunities
 
 Document listing opportunities for internships available to student at Medical Physics and Biomedical Engineering @ UCL (https://www.ucl.ac.uk/medical-physics-biomedical-engineering/ucl-medical-physics-and-biomedical-engineering).
 
@@ -34,7 +34,7 @@ https://www.hdruk.ac.uk/study-and-train/train/health-data-science-black-internsh
 
 https://www.hdruk.ac.uk/study-and-train/about-the-training-team/impact-and-partnerships/an-internship-programme-to-help-talented-black-health-data-scientists-flourish-in-stem-careers/
 
-### MBPE Research experience scheme
+### MPBE Research experience scheme
 
 Unpaid part time internship for 2nd year medicaal physics undergraduates in the department, running over the course of the year. Applications in November- contact e.alles@ucl.ac.uk for more information
 
