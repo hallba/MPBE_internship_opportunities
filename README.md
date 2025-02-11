@@ -154,4 +154,4 @@ Royal Society of Biology: https://www.rsb.org.uk/get-involved/grants/undergradua
 
 GoEco (opportunities for volunteering abroad, not necessarily research): https://www.goeco.org/
 
-MBPE noticeboard: https://moodle.ucl.ac.uk/course/view.php?id=36820&section=10
+MPBE noticeboard: https://moodle.ucl.ac.uk/course/view.php?id=36820&section=10
