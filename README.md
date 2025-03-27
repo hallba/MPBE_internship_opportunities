@@ -14,6 +14,12 @@ Prestigous and highly competitive scholarship scheme running over multiple summe
 
 https://www.ucl.ac.uk/laidlaw-scholarships/become-future-leader
 
+### The Mary Lister McCammon Summer Research Fellowship
+
+For women in mathematics and statistics: The Mary Lister McCammon Summer Research Fellowship is a funded opportunity to spend the summer before your final year at university working in research with a leading mathematician or statistician. Deadline mid-February in 2025
+
+https://www.imperial.ac.uk/mathematics/postgraduate/the-mary-lister-mccammon-summer-research-fellowship/
+
 ### Departmental scholarships
 
 8 week paid projects in a lab in MBPE, working on either research or the development of teaching resources. Opens in March.
